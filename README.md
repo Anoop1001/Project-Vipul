@@ -40,4 +40,3 @@ the other as Privileged user in any xml file. Need not use any database for doin
 ### Estimation Screen
 
 ![](estimation.JPG)
-
